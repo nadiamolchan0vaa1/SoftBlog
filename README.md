@@ -1,2 +1,0 @@
-# SoftBlog
-For the soul.
